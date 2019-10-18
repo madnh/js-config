@@ -1,0 +1,13 @@
+## IDEs
+.idea
+
+
+## Package managements
+node_modules
+
+## OS
+
+.DS_Store
+.DS_Store?
+
+

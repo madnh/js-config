@@ -1,0 +1,20 @@
+{
+  "name": "js-config",
+  "version": "1.0.0",
+  "description": "A Config class",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepublish": "npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "config"
+  ],
+  "author": "MaDnh <i@madnh.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.6.4"
+  }
+}
